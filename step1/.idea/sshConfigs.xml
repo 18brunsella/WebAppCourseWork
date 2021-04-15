@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="arctic.cse.msu.edu" id="cba40e5e-8a7b-4233-b4d8-07ff09bc9d74" port="22" customName="webdev-step1" nameFormat="CUSTOM" username="brunsell">
+        <option name="customName" value="webdev-step1" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

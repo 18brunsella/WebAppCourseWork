@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f94bf427-2a7a-40aa-bffb-0a8ca3cbcf17" name="webdev-step9" url="http://webdev.cse.msu.edu/~brunsell/step9">
+        <fileTransfer rootFolder="/user/brunsell/classweb/step9" accessType="SFTP" host="arctic.cse.msu.edu" port="22" sshConfigId="0cdbcc4f-8fcb-4259-8721-9961b215c5bf" sshConfig="brunsell@arctic.cse.msu.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

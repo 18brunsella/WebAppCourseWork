@@ -1,0 +1,111 @@
+html, body, header, footer, hgroup, nav, article, section, figure,
+figcaption, h1, h2, h3, ul, li, body, div, p, img {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    border: 0;
+}
+
+html{
+    background-image: url("images/cave-background.jpg");
+    background-repeat: no-repeat;
+    background-position: center top;
+    font-family: Arial, sans-serif;
+}
+
+body{
+    width: 650px;
+    height: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    background-color: #3f3622;
+    height: 100px;
+    width: 650px;
+}
+
+header h1{
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 2.95em;
+    padding: 0.75em 0.5em 1em 1.85em;
+}
+
+header nav p{
+    float: right;
+    font-family: "Times New Roman", Arial, sans-serif;
+    margin-right: 0.33em;
+    margin-top: 0.1em;
+}
+
+nav a:link{
+    color: white;
+}
+
+nav a:visited{
+    color: grey;
+}
+
+div.main{
+    background-color: white;
+    width: 650px;
+    padding-bottom: 0.80em;
+}
+
+div.mainimg{
+    text-align: center;
+}
+
+div.mainimg img{
+    padding: 0.60em;
+    margin-top: 1.15em;
+    margin-bottom: 1.15em;
+    border: thin solid black;
+}
+
+div.quotes{
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 0.65em;
+}
+
+div.quotes .roomsix{
+    margin-bottom: 1em;
+}
+
+div.rooms{
+    text-align: center;
+}
+
+div.room {
+    width: 200px;
+    display: inline-block;
+}
+
+div.remains{
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 0.75em;
+}
+.instructpara{
+    font-family: "Times New Roman", Arial, sans-serif;
+    margin: 0.5em 0.75em 1.5em 0.75em;
+}
+
+div.startpage{
+    text-align: center;
+    font-size: 1.5em;
+}
+
+div.startpage p{
+    margin-top: 1em;
+    margin-bottom: 1.25em;
+}
+
+i{
+    font-size: 1.3em;
+}
+
